@@ -6,6 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![image](https://github.com/GabrielBressi/moveit/assets/62081443/ce467fdb-ea24-4a2c-9a0e-b40b64748a97)
 ![image](https://github.com/GabrielBressi/moveit/assets/62081443/2193c841-efe6-4ebf-bafe-31e900a3db51)
 
+### Check out the backend server with Spring Security for authentication : [Login Auth Api](https://github.com/GabrielBressi/login-auth-api)
 
 ## Development server
 
